@@ -26,7 +26,8 @@ Sviluppo autonomo di un sito web responsive con focus su struttura e layout.
 Coordinamento del team e sviluppo dell’interfaccia.  
 **Tecnologie:** HTML, CSS, JavaScript, Git, Vite  
 **Deploy:** GitHub Pages  
-🔗 [Demo live](LINK_DEMO) | 🔗 [Repository GitHub](LINK_REPO)
+🔗 [Demo live](ievgeniia23.github.io/STP-9922/) | 🔗 [Repository GitHub](https://github.com/Ievgeniia23/STP-9922)
+
 
 ---
 
@@ -35,7 +36,7 @@ Coordinamento del team e sviluppo dell’interfaccia.
 Sviluppo della sezione “Order” e collaborazione tramite Git e Trello.  
 **Tecnologie:** HTML, CSS, Git, Vite, Trello  
 **Deploy:** GitHub Pages  
-🔗 [Demo live](LINK_DEMO) | 🔗 [Repository GitHub](LINK_REPO)
+🔗 [Demo live](aihikki.github.io/project-DataDynasty01/) | 🔗 [Repository GitHub](https://github.com/Ievgeniia23/project-DataDynasty01)
 
 ---
 
@@ -43,9 +44,9 @@ Sviluppo della sezione “Order” e collaborazione tramite Git e Trello.
 Sviluppo frontend con React, gestione componenti e stato con Redux.  
 **Tecnologie:** HTML, CSS, JavaScript, React, Redux, Git, Vite  
 **Deploy:** Vercel  
-🔗 [Demo live](LINK_DEMO) | 🔗 [Repository GitHub](LINK_REPO)
+🔗 [Demo live](fast-rent-car.vercel.app) | 🔗 [Repository GitHub](https://github.com/Ievgeniia23/fast-rent-car)
 
 ---
 
 ## CV
-📄 [Download CV](./CV.pdf)
+📄 [Download CV](https://drive.google.com/file/d/1UM4IN1yWC9rCPwo7IYInOyCiPd1_cf4w/view?usp=drive_link)
