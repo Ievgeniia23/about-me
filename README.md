@@ -17,7 +17,7 @@
 Sviluppo autonomo di un sito web responsive con focus su struttura e layout.  
 **Tecnologie:** HTML, CSS, JavaScript, Git  
 **Deploy:** GitHub Pages, Vercel  
-🔗 [Demo live](LINK_DEMO) | 🔗 [Repository GitHub](LINK_REPO)
+🔗 [Demo live](https://agenzia-viaggi-jet.vercel.app/) | 🔗 [Repository GitHub](https://github.com/Ievgeniia23/Agenzia-viaggi)
 
 ---
 
