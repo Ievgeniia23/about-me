@@ -26,7 +26,7 @@ Sviluppo autonomo di un sito web responsive con focus su struttura e layout.
 Coordinamento del team e sviluppo dell’interfaccia.  
 **Tecnologie:** HTML, CSS, JavaScript, Git, Vite  
 **Deploy:** GitHub Pages  
-🔗 [Demo live](ievgeniia23.github.io/STP-9922/) | 🔗 [Repository GitHub](https://github.com/Ievgeniia23/STP-9922)
+🔗 [Demo live](https://ievgeniia23.github.io/STP-9922/) | 🔗 [Repository GitHub](https://github.com/Ievgeniia23/STP-9922)
 
 
 ---
@@ -44,7 +44,7 @@ Sviluppo della sezione “Order” e collaborazione tramite Git e Trello.
 Sviluppo frontend con React, gestione componenti e stato con Redux.  
 **Tecnologie:** HTML, CSS, JavaScript, React, Redux, Git, Vite  
 **Deploy:** Vercel  
-🔗 [Demo live](fast-rent-car.vercel.app) | 🔗 [Repository GitHub](https://github.com/Ievgeniia23/fast-rent-car)
+🔗 [Demo live](https://fast-rent-car.vercel.app/) | 🔗 [Repository GitHub](https://github.com/Ievgeniia23/fast-rent-car)
 
 ---
 
