@@ -36,7 +36,7 @@ Coordinamento del team e sviluppo dell’interfaccia.
 Sviluppo della sezione “Order” e collaborazione tramite Git e Trello.  
 **Tecnologie:** HTML, CSS, Git, Vite, Trello  
 **Deploy:** GitHub Pages  
-🔗 [Demo live](aihikki.github.io/project-DataDynasty01/) | 🔗 [Repository GitHub](https://github.com/Ievgeniia23/project-DataDynasty01)
+🔗 [Demo live](https://aihikki.github.io/project-DataDynasty01/) | 🔗 [Repository GitHub](https://github.com/Ievgeniia23/project-DataDynasty01)
 
 ---
 
